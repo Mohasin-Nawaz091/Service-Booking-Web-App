@@ -1,0 +1,38 @@
+export const servicesData = [
+  {
+    id: 1,
+    name: "Home Deep Cleaning",
+    category: "Cleaning",
+    price: 120,
+    rating: 4.8,
+    image: "https://images.unsplash.com/photo-1581578731117-104f2a41272c?auto=format&fit=crop&q=80&w=400",
+    description: "Full deep cleaning for apartments up to 2 bedrooms.",
+  },
+  {
+    id: 2,
+    name: "AC Repair & Service",
+    category: "Repair",
+    price: 60,
+    rating: 4.5,
+    image: "https://images.unsplash.com/photo-1621905251189-08b45d6a269e?auto=format&fit=crop&q=80&w=400",
+    description: "Professional AC maintenance and gas refilling.",
+  },
+  {
+    id: 3,
+    name: "Web Development Consultation",
+    category: "Tech",
+    price: 150,
+    rating: 5.0,
+    image: "https://images.unsplash.com/photo-1531482615713-2afd69097998?auto=format&fit=crop&q=80&w=400",
+    description: "One hour consultation for your startup MVP.",
+  },
+  {
+    id: 4,
+    name: "Plumbing Fix",
+    category: "Repair",
+    price: 80,
+    rating: 4.2,
+    image: "https://images.unsplash.com/photo-1607472586893-edb57bdc0e39?auto=format&fit=crop&q=80&w=400",
+    description: "Fixing leaks, pipe installation, and drainage issues.",
+  },
+];
